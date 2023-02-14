@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "BootDiscord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lucas-Mendes-dos-S-Mota/BootDiscord.git",
+  "author": "Lucas Mendes dos Santos Mota <lucas.mendes0515@gmail.com>",
+  "license": "MIT"
+}
